@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsoleApp1
+namespace Open_lab_02.5
 {
     class Program
     {
