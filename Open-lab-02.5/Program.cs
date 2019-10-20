@@ -7,14 +7,8 @@ namespace ConsoleApp1
         public static bool Reverse(int a)
 
         {
-            if (a % 5 == 0)
-            {
-                return true;
-            }
-            else
-            {
-                return !true;
-            }
+           return (a % 5 == 0);
+            
         }
         static void Main(string[] args)
         {
